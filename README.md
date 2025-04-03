@@ -53,6 +53,8 @@ Once running, access bWAPP at: `http://localhost/bwapp`
 ## 🎯 Conducting the Tests
 
 
+<img src="asset/Screenshot 2025-04-03 at 21.02.04.png" alt="SQL Injection Test Screenshot" width="600">
+
 <img src="asset/Screenshot 2025-04-03 at 10.20.31.png" alt="SQL Injection Test Screenshot" width="600">
 
 
